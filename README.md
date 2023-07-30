@@ -8,4 +8,4 @@ For the graphical user interface (GUI) aspect, I ensured that all necessary comp
 To maintain a modular structure, I created a separate Java file responsible for handling the client GUI, and the client GUI file itself calls the appropriate methods to render the GUI correctly. This design allows for smooth content switching during connections and disconnections. Moreover, I created a Server file that GWackChannel relies on, as per the instructions to test GWackClient and GWackChannel independently.
 As an additional feature, I applied a black border to all elements and designed the GUI using various shades of pink. The top section features a light pink color, while the rest utilizes a combination of pink and gray. Furthermore, I integrated a JScrollPane to handle an overflow of messages and users on the screen, ensuring they are displayed properly without overlapping other GUI contents.
 
-Skills: Java · HTML
+Skills: Java · UX Design
